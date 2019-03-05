@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070475587102:jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <root>
+    <file name="ConstraintsAspectDescriptor.java">
+      <unit at="13,0,29,0" name="M0.constraints.ConstraintsAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:e61216c2-8851-4217-bf76-19f0557edda5(M0.constraints)/3677151639338282910">
+    <file name="Everything_Constraints.java">
+      <node id="3677151639338282910" at="9,35,10,131" concept="1" />
+      <node id="3677151639338282910" at="9,0,12,0" concept="0" trace="Everything_Constraints#()V" />
+      <scope id="3677151639338282910" at="9,35,10,131" />
+      <scope id="3677151639338282910" at="9,0,12,0" />
+      <unit id="3677151639338282910" at="8,0,14,0" name="M0.constraints.Everything_Constraints" />
+    </file>
+  </root>
+</debug-info>
+
